@@ -1,13 +1,3 @@
----
-title: "My Portfolio"
-author: "Onyenso Goodluck"
-fontsize: 12pt
-mainfont: DejaVu Sans
-monofont: DejaVu Sans Mono
-emoji-font: Noto Color Emoji
-papersize: a4
-geometry: margin=1in
----
 # Hi there, I'm Goodluck Onyenso 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Goody24&color=blue)
