@@ -24,10 +24,11 @@ This repository is a collaborative effort by Eight contributors to showcase our 
 |--------|--------|-----------|
 | 🟢 Goodluck Onyenso | [@Goody24](https://github.com/Goody24) | [View Portfolio](team/Goodluck-Onyenso.md) |
 | 🔵 onyinye | [@username2](https://github.com/username2) | [View Portfolio](team/person2.md) |
-| 🟣 divine | [@username3](https://github.com/username3) | [View Portfolio](team/person3.md) |
+| 🟣 Divine Ajaegbu | [@divineajaegbu4](https://github.com/divineajaegbu4) | [View Portfolio](team/divine-ajaegbu.md) |
 | 🟠 emelie| [@username4](https://github.com/username4) | [View Portfolio](team/person4.md) |
+<<<<<<< HEAD
 | 🟡 solomon| [@El-fantasio](https://https://github.com/El-fantasio) | [View Portfolio](team/Emeka-Solomon.md) |
-| 🔴 Gideon Arinze | [@ArinzeGideon](https://github.com/@ArinzeGideon) | [View Portfolio](team/Gideon-Arinze.md) |
+| 🔴 Gideon Arinze | [@ArinzeGideon](https://github.com/ArinzeGideon) | [View Portfolio](team/Gideon-Arinze.md) |
 | ⚫ solomon akpan | [@username7](https://github.com/username7) | [View Portfolio](team/person7.md) |
 | ⚫ Ikechukwu Agu | [@IkechukwuAgu](https://github.com/ikechukwuAgu) | [View Portfolio](team/Ikechukwu-Agu.md) |
 
