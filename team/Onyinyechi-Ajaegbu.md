@@ -23,7 +23,7 @@
   - [onyinyechi-portfolio](https://github.com/onyinyechajaegbu/#/)
   - [portfolio](git@github.com:OnyinyechiAjaegbu/portfolio.git)
   - [learning-markdown](git@github.com:OnyinyechiAjaegbu/learning-markdown.git)
-  - [my-kitchen]()
+  - [my-kitchen](https://github.com/onyinyechiajaegbu/my-kitchen.git)
   
 
   ## 📫 Contact
@@ -33,4 +33,4 @@
   
 
   ## 📜 License
-  This portfolio is part of the **Kavinoq-Academy Portfolio Project** and is licensed under the [MIT License](../LICENSE).
+  This portfolio is part of the **Kavinoq-Academy Portfolio Project** and is licensed under the [MIT License](../LICENSE).cd
