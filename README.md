@@ -30,6 +30,7 @@ This repository is a collaborative effort by Eight contributors to showcase our 
 | 🔴 Gideon Arinze | [@ArinzeGideon](https://github.com/ArinzeGideon) | [View Portfolio](team/Gideon-Arinze.md) |
 | ⚫ solomon akpan | [@username7](https://github.com/username7) | [View Portfolio](team/person7.md) |
 | ⚫ Ikechukwu Agu | [@IkechukwuAgu](https://github.com/ikechukwuAgu) | [View Portfolio](team/Ikechukwu-Agu.md) |
+| 🔴 Solomon Akpan Efiok| [@solomonakpanefiok](https://github.com/solomanakpan2011) | [View Portfolio](team/Solomon-Akpan.md) |
 
 ---
 
