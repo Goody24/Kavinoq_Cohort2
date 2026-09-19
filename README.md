@@ -31,6 +31,11 @@ This repository is a collaborative effort by Eight contributors to showcase our 
 | ⚫ solomon akpan | [@username7](https://github.com/username7) | [View Portfolio](team/person7.md) |
 | ⚫ Ikechukwu Agu | [@IkechukwuAgu](https://github.com/ikechukwuAgu) | [View Portfolio](team/Ikechukwu-Agu.md) |
 | 🔴 Solomon Akpan Efiok| [@solomonakpanefiok](https://github.com/solomanakpan2011) | [View Portfolio](team/Solomon-Akpan.md) |
+|  Rejoice Uchenna| [@emailadrress](@githubusernameurl) | [View Portfolio](file) |
+|  Ebube Uchenna| [@emailadrress](@githubusernameurl) | [View Portfolio](file) |
+|  Joshua Adeyemi| [@emailadrress](@githubusernameurl) | [View Portfolio](file) |
+|  Emmanuel Aderemi| [@emailadrress](@githubusernameurl) | [View Portfolio](file) |
+|  Chinonso| [@emailadrress](@githubusernameurl) | [View Portfolio](file) |
 
 ---
 
