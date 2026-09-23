@@ -22,19 +22,10 @@ This repository is a collaborative effort by Eight contributors to showcase our 
 
 | Member | GitHub | Portfolio |
 |--------|--------|-----------|
-| 🟢 Goodluck Onyenso | [@Goody24](https://github.com/Goody24) | [View Portfolio](team/Goodluck-Onyenso.md) |
-| 🔵 onyinye | [@OnyinyechiAjaegbu](https://github.com/OnyinyechiAjaegbu) | [View Portfolio](team/Onyinyechi-Ajaegbu.md) |
-| 🟣 Divine Ajaegbu | [@divineajaegbu4](https://github.com/divineajaegbu4) | [View Portfolio](team/divine-ajaegbu.md) |
-| 🟠 Emelie Andrew| [@emynogithub](https://github.com/emynogithub) | [View Portfolio](team/Akunna-Chiemelie.md) |
-| 🟡 solomon| [@El-fantasio](https://github.com/El-fantasio) | [View Portfolio](team/Emeka-Solomon.md) |
-| 🔴 Gideon Arinze | [@ArinzeGideon](https://github.com/ArinzeGideon) | [View Portfolio](team/Gideon-Arinze.md) |
-| ⚫ solomon akpan | [@username7](https://github.com/username7) | [View Portfolio](team/person7.md) |
-| ⚫ Ikechukwu Agu | [@IkechukwuAgu](https://github.com/ikechukwuAgu) | [View Portfolio](team/Ikechukwu-Agu.md) |
-| 🔴 Solomon Akpan Efiok| [@solomonakpanefiok](https://github.com/solomanakpan2011) | [View Portfolio](team/Solomon-Akpan.md) |
 |  Rejoice Uchenna| [@Username](@githubusernameurl) | [View Portfolio](file) |
 |  Ebube Uchenna| [@Username](@githubusernameurl) | [View Portfolio](file) |
 |  Joshua Adeyemi| [@Username](@githubusernameurl) | [View Portfolio](file) |
-|  Emmanuel Aderemi| [@Username](@githubusernameurl) | [View Portfolio](file) |
+|  Emmanuel Aderemi| [@GithubUsername](https://github.com/aderemiemmanuel425-lab) | [View Portfolio](team/Emmanuel-Aderemi.md) |
 |  Chinonso| [@Username](@githubusernameurl) | [View Portfolio](file) |
 
 ---
