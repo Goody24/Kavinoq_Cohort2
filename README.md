@@ -25,7 +25,7 @@ This repository is a collaborative effort by Eight contributors to showcase our 
 |  Rejoice Uchenna| [@Username](@githubusernameurl) | [View Portfolio](file) |
 |  Ebube Uchenna| [@Username](@githubusernameurl) | [View Portfolio](file) |
 |  Joshua Adeyemi| [@Username](@githubusernameurl) | [View Portfolio](file) |
-|  Emmanuel Aderemi| [@Username](@githubusernameurl) | [View Portfolio](file) |
+|  Emmanuel Aderemi| [@GithubUsername](https://github.com/aderemiemmanuel425-lab) | [View Portfolio](team/Emmanuel-Aderemi.md) |
 |  Chinonso| [@Username](@githubusernameurl) | [View Portfolio](file) |
 
 ---
